@@ -1,0 +1,70 @@
+banner: '+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+  |A|u|t|h|o|r| |:| |R|A|V|I| |T|E|J|A| |M|A|N|D|A|P|A|T|I|
+
+  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ '
+locations:
+- xhd
+- xsj
+- xco
+- xap
+- xir
+- xbj
+- xck
+- xni
+- xdc
+watchers:
+- datetime: '2018-05-18 00:38:16'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/everest
+  warning: 85
+- datetime: '2018-05-18 00:38:25'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/release
+  warning: 85
+- datetime: '2018-05-18 00:46:27'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/diablo
+  warning: 85
+- datetime: '2018-05-18 00:48:14'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/olympusip
+  warning: 85
+- datetime: '2018-05-18 00:48:43'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/everestip
+  warning: 85
+- datetime: '2018-05-18 00:48:56'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/vendorip
+  warning: 85
+- datetime: '2018-05-18 00:49:16'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /proj/olympus
+  warning: 85
+- datetime: '2018-05-18 00:49:36'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /tools/packages
+  warning: 85
+- datetime: '2018-05-18 01:04:09'
+  emails: xhdstorageteam@xilinx.com
+  error: 95
+  location: xhd
+  mount: /tools/installs
+  warning: 85
