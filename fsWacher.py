@@ -1,6 +1,6 @@
-#__authoer = "RaviTeja Mandapati"
-#__version = "1.0.0 - RC1"
-#__datetime = "2018-05-18 00:48:56"
+# __authoer = "RaviTeja Mandapati"
+# __version = "1.0.0 - RC1"
+# __datetime = "2018-05-18 00:48:56"
 #
 import yaml
 import argparse
